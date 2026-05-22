@@ -13,6 +13,7 @@ Parse JSON of each experiment accession for the following metadata:
 - Run type
 
 To run this script, download experiment report. From https://www.encodeproject.org/report/?type=Experiment, choose your filters and click "Download TSV".
+
 The output TSV has one column per metadata above.
 
 Example:
