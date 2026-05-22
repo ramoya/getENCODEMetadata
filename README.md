@@ -1,4 +1,4 @@
-# get_ENCODE_metadata
+# getENCODEMetadata
 From Experiment Search on encodeproject.org, get FASTQ file and biosample metadata.
 
 Parse JSON of each experiment accession for the following metadata:
